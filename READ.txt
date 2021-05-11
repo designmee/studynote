@@ -1,3 +1,9 @@
-하잉
-두번째 줄
-세번째 줄
+git 기초 
+· 내 정보 등록하기
+$git config --global user.email "id@gmail.com"
+$git config --global user.name "username"
+
+· 현재 파일 상태 확인하기 $git status
+· 파일을 커밋 대상에 추가하기 $git add 파일명.txt
+· 커밋을 실행하고 상세설명 적기(-m) $git commit -m "상세설명 적는 부분"
+· 커밋 로그 확인하기 $git log
