@@ -7,3 +7,5 @@ $git config --global user.name "username"
 · 파일을 커밋 대상에 추가하기 $git add 파일명.txt
 · 커밋을 실행하고 상세설명 적기(-m) $git commit -m "상세설명 적는 부분"
 · 커밋 로그 확인하기 $git log
+
+하눌 추가
